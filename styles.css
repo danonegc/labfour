@@ -1,0 +1,25 @@
+.jumbotron {
+    background-image: url("NIKE_logo.jpg");
+    font-family: Futura;
+    font-style: bold;
+    color: red;
+  }
+
+h1 {
+    font-size: 50px;
+}
+
+p {
+    margin:0 0 10px;
+    box-sizing: border-box;
+    display: block;
+    -webkit-margin-before: 1em;
+    -webkit-margin-after: 1em;
+    -webkit-margin-start: 0px;
+    -webkit-margin-end: 0px;
+}
+
+
+
+
+}
